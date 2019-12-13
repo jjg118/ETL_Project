@@ -1,0 +1,641 @@
+country,year,suicide_total
+Argentina,1995,2204
+Aruba,1995,8
+Austria,1995,1788
+Belgium,1995,2155
+Belize,1995,14
+Brazil,1995,6536
+Bulgaria,1995,1433
+Chile,1995,930
+Colombia,1995,1150
+Costa Rica,1995,209
+Croatia,1995,929
+Cuba,1995,2222
+Czech Republic,1995,1733
+Denmark,1995,924
+Ecuador,1995,546
+El Salvador,1995,620
+Estonia,1995,594
+Finland,1995,1388
+France,1995,11819
+Georgia,1995,138
+Germany,1995,12888
+Greece,1995,370
+Guatemala,1995,211
+Hong Kong SAR,1995,723
+Hungary,1995,3366
+Iceland,1995,27
+Ireland,1995,403
+Israel,1995,360
+Italy,1995,4569
+Japan,1995,21249
+Kazakhstan,1995,4706
+Kuwait,1995,26
+Kyrgyzstan,1995,605
+Latvia,1995,1024
+Lithuania,1995,1694
+Luxembourg,1995,63
+Malta,1995,17
+Mauritius,1995,147
+Mexico,1995,2877
+Netherlands,1995,1511
+Norway,1995,548
+Paraguay,1995,118
+Poland,1995,5499
+Puerto Rico,1995,289
+Republic of Korea,1995,4841
+Republic of Moldova,1995,802
+Romania,1995,2793
+Russian Federation,1995,60548
+Saint Lucia,1995,10
+Saint Vincent and Grenadines,1995,7
+Singapore,1995,364
+Slovakia,1995,735
+Slovenia,1995,564
+Spain,1995,3157
+Suriname,1995,55
+Sweden,1995,1348
+Switzerland,1995,1419
+Thailand,1995,4245
+Turkmenistan,1995,244
+Ukraine,1995,14541
+United Kingdom,1995,4315
+United States of America,1995,31272
+Uruguay,1995,427
+Uzbekistan,1995,1485
+Argentina,2000,2774
+Aruba,2000,10
+Austria,2000,1588
+Belgium,2000,2143
+Belize,2000,18
+Brazil,2000,6763
+Bulgaria,2000,1383
+Chile,2000,1473
+Colombia,2000,2358
+Costa Rica,2000,239
+Croatia,2000,926
+Cuba,2000,1845
+Czech Republic,2000,1649
+Denmark,2000,728
+Ecuador,2000,534
+El Salvador,2000,461
+Estonia,2000,377
+Finland,2000,1165
+France,2000,10849
+Georgia,2000,130
+Germany,2000,11073
+Greece,2000,382
+Guatemala,2000,182
+Hong Kong SAR,2000,890
+Hungary,2000,3269
+Iceland,2000,50
+Ireland,2000,463
+Israel,2000,394
+Italy,2000,4108
+Japan,2000,29989
+Kazakhstan,2000,4428
+Kuwait,2000,34
+Kyrgyzstan,2000,510
+Latvia,2000,770
+Lithuania,2000,1631
+Luxembourg,2000,62
+Malta,2000,23
+Mauritius,2000,137
+Mexico,2000,3456
+Netherlands,2000,1501
+Norway,2000,541
+Paraguay,2000,154
+Poland,2000,5841
+Puerto Rico,2000,305
+Republic of Korea,2000,6444
+Republic of Moldova,2000,544
+Romania,2000,2836
+Russian Federation,2000,56619
+Saint Lucia,2000,14
+Saint Vincent and Grenadines,2000,5
+Singapore,2000,309
+Slovakia,2000,729
+Slovenia,2000,588
+Spain,2000,3394
+Suriname,2000,52
+Sweden,2000,1131
+Switzerland,2000,1380
+Thailand,2000,5182
+Turkmenistan,2000,383
+Ukraine,2000,14467
+United Kingdom,2000,4290
+United States of America,2000,29343
+Uruguay,2000,555
+Uzbekistan,2000,1919
+Argentina,2005,3058
+Aruba,2005,10
+Austria,2005,1399
+Belgium,2005,2029
+Belize,2005,12
+Brazil,2005,8529
+Bulgaria,2005,982
+Chile,2005,1682
+Colombia,2005,2102
+Costa Rica,2005,272
+Croatia,2005,874
+Cuba,2005,1397
+Czech Republic,2005,1565
+Denmark,2005,631
+Ecuador,2005,943
+El Salvador,2005,455
+Estonia,2005,273
+Finland,2005,994
+France,2005,10713
+Georgia,2005,87
+Germany,2005,10270
+Greece,2005,400
+Guatemala,2005,238
+Hong Kong SAR,2005,1143
+Hungary,2005,2619
+Iceland,2005,33
+Ireland,2005,451
+Israel,2005,425
+Italy,2005,3742
+Japan,2005,30369
+Kazakhstan,2005,3903
+Kuwait,2005,52
+Kyrgyzstan,2005,470
+Latvia,2005,564
+Lithuania,2005,1319
+Luxembourg,2005,49
+Malta,2005,19
+Mauritius,2005,102
+Mexico,2005,4274
+Netherlands,2005,1574
+Norway,2005,533
+Paraguay,2005,239
+Poland,2005,6045
+Puerto Rico,2005,289
+Republic of Korea,2005,12011
+Republic of Moldova,2005,631
+Romania,2005,2603
+Russian Federation,2005,45802
+Saint Lucia,2005,4
+Saint Vincent and Grenadines,2005,8
+Singapore,2005,359
+Slovakia,2005,679
+Slovenia,2005,503
+Spain,2005,3399
+Suriname,2005,72
+Sweden,2005,1219
+Switzerland,2005,1299
+Thailand,2005,3937
+Turkmenistan,2005,468
+Ukraine,2005,10621
+United Kingdom,2005,4047
+United States of America,2005,32629
+Uruguay,2005,498
+Uzbekistan,2005,1221
+Argentina,2010,2943
+Aruba,2010,7
+Austria,2010,1264
+Belgium,2010,2013
+Belize,2010,15
+Brazil,2010,9429
+Bulgaria,2010,859
+Chile,2010,2001
+Colombia,2010,2107
+Costa Rica,2010,311
+Croatia,2010,776
+Cuba,2010,1558
+Czech Republic,2010,1502
+Denmark,2010,563
+Ecuador,2010,912
+El Salvador,2010,399
+Estonia,2010,223
+Finland,2010,954
+France,2010,10379
+Georgia,2010,112
+Germany,2010,10030
+Greece,2010,377
+Guatemala,2010,352
+Hong Kong SAR,2010,1007
+Hungary,2010,2489
+Iceland,2010,46
+Ireland,2010,486
+Israel,2010,480
+Italy,2010,3989
+Japan,2010,29411
+Kazakhstan,2010,3609
+Kuwait,2010,39
+Kyrgyzstan,2010,500
+Latvia,2010,438
+Lithuania,2010,1018
+Luxembourg,2010,54
+Malta,2010,31
+Mauritius,2010,98
+Mexico,2010,4858
+Netherlands,2010,1604
+Norway,2010,548
+Paraguay,2010,223
+Poland,2010,6357
+Puerto Rico,2010,286
+Republic of Korea,2010,15558
+Republic of Moldova,2010,676
+Romania,2010,2766
+Russian Federation,2010,33356
+Saint Lucia,2010,4
+Saint Vincent and Grenadines,2010,5
+Singapore,2010,296
+Slovakia,2010,631
+Slovenia,2010,414
+Spain,2010,3158
+Suriname,2010,136
+Sweden,2010,1141
+Switzerland,2010,1006
+Thailand,2010,3761
+Turkmenistan,2010,178
+Ukraine,2010,9089
+United Kingdom,2010,4188
+United States of America,2010,38362
+Uruguay,2010,547
+Uzbekistan,2010,1464
+Argentina,2014,3231
+Aruba,2014,5
+Austria,2014,1314
+Belgium,2014,1899
+Belize,2014,24
+Brazil,2014,10631
+Bulgaria,2014,724
+Chile,2014,1789
+Colombia,2014,2126
+Costa Rica,2014,268
+Croatia,2014,722
+Cuba,2014,1453
+Czech Republic,2014,1489
+Denmark,2014,629
+Ecuador,2014,734
+El Salvador,2014,386
+Estonia,2014,241
+Finland,2014,789
+France,2014,8881
+Georgia,2014,194
+Germany,2014,10217
+Greece,2014,565
+Guatemala,2014,512
+Hong Kong SAR,2014,926
+Hungary,2014,1925
+Iceland,2014,44
+Ireland,2014,486
+Israel,2014,382
+Italy,2014,4147
+Japan,2014,24357
+Kazakhstan,2014,3119
+Kuwait,2014,68
+Kyrgyzstan,2014,461
+Latvia,2014,382
+Lithuania,2014,930
+Luxembourg,2014,67
+Malta,2014,32
+Mauritius,2014,120
+Mexico,2014,6178
+Netherlands,2014,1839
+Norway,2014,548
+Paraguay,2014,379
+Poland,2014,5934
+Puerto Rico,2014,220
+Republic of Korea,2014,13834
+Republic of Moldova,2014,581
+Romania,2014,2209
+Russian Federation,2014,26541
+Saint Lucia,2014,14
+Saint Vincent and Grenadines,2014,2
+Singapore,2014,355
+Slovakia,2014,554
+Slovenia,2014,388
+Spain,2014,3911
+Suriname,2014,128
+Sweden,2014,1148
+Switzerland,2014,1032
+Thailand,2014,3952
+Turkmenistan,2014,136
+Ukraine,2014,7968
+United Kingdom,2014,4788
+United States of America,2014,42769
+Uruguay,2014,591
+Uzbekistan,2014,2095
+Argentina,1995,2204
+Aruba,1995,8
+Austria,1995,1788
+Belgium,1995,2155
+Belize,1995,14
+Brazil,1995,6536
+Bulgaria,1995,1433
+Chile,1995,930
+Colombia,1995,1150
+Costa Rica,1995,209
+Croatia,1995,929
+Cuba,1995,2222
+Czech Republic,1995,1733
+Denmark,1995,924
+Ecuador,1995,546
+El Salvador,1995,620
+Estonia,1995,594
+Finland,1995,1388
+France,1995,11819
+Georgia,1995,138
+Germany,1995,12888
+Greece,1995,370
+Guatemala,1995,211
+Hong Kong SAR,1995,723
+Hungary,1995,3366
+Iceland,1995,27
+Ireland,1995,403
+Israel,1995,360
+Italy,1995,4569
+Japan,1995,21249
+Kazakhstan,1995,4706
+Kuwait,1995,26
+Kyrgyzstan,1995,605
+Latvia,1995,1024
+Lithuania,1995,1694
+Luxembourg,1995,63
+Malta,1995,17
+Mauritius,1995,147
+Mexico,1995,2877
+Netherlands,1995,1511
+Norway,1995,548
+Paraguay,1995,118
+Poland,1995,5499
+Puerto Rico,1995,289
+Republic of Korea,1995,4841
+Republic of Moldova,1995,802
+Romania,1995,2793
+Russian Federation,1995,60548
+Saint Lucia,1995,10
+Saint Vincent and Grenadines,1995,7
+Singapore,1995,364
+Slovakia,1995,735
+Slovenia,1995,564
+Spain,1995,3157
+Suriname,1995,55
+Sweden,1995,1348
+Switzerland,1995,1419
+Thailand,1995,4245
+Turkmenistan,1995,244
+Ukraine,1995,14541
+United Kingdom,1995,4315
+United States of America,1995,31272
+Uruguay,1995,427
+Uzbekistan,1995,1485
+Argentina,2000,2774
+Aruba,2000,10
+Austria,2000,1588
+Belgium,2000,2143
+Belize,2000,18
+Brazil,2000,6763
+Bulgaria,2000,1383
+Chile,2000,1473
+Colombia,2000,2358
+Costa Rica,2000,239
+Croatia,2000,926
+Cuba,2000,1845
+Czech Republic,2000,1649
+Denmark,2000,728
+Ecuador,2000,534
+El Salvador,2000,461
+Estonia,2000,377
+Finland,2000,1165
+France,2000,10849
+Georgia,2000,130
+Germany,2000,11073
+Greece,2000,382
+Guatemala,2000,182
+Hong Kong SAR,2000,890
+Hungary,2000,3269
+Iceland,2000,50
+Ireland,2000,463
+Israel,2000,394
+Italy,2000,4108
+Japan,2000,29989
+Kazakhstan,2000,4428
+Kuwait,2000,34
+Kyrgyzstan,2000,510
+Latvia,2000,770
+Lithuania,2000,1631
+Luxembourg,2000,62
+Malta,2000,23
+Mauritius,2000,137
+Mexico,2000,3456
+Netherlands,2000,1501
+Norway,2000,541
+Paraguay,2000,154
+Poland,2000,5841
+Puerto Rico,2000,305
+Republic of Korea,2000,6444
+Republic of Moldova,2000,544
+Romania,2000,2836
+Russian Federation,2000,56619
+Saint Lucia,2000,14
+Saint Vincent and Grenadines,2000,5
+Singapore,2000,309
+Slovakia,2000,729
+Slovenia,2000,588
+Spain,2000,3394
+Suriname,2000,52
+Sweden,2000,1131
+Switzerland,2000,1380
+Thailand,2000,5182
+Turkmenistan,2000,383
+Ukraine,2000,14467
+United Kingdom,2000,4290
+United States of America,2000,29343
+Uruguay,2000,555
+Uzbekistan,2000,1919
+Argentina,2005,3058
+Aruba,2005,10
+Austria,2005,1399
+Belgium,2005,2029
+Belize,2005,12
+Brazil,2005,8529
+Bulgaria,2005,982
+Chile,2005,1682
+Colombia,2005,2102
+Costa Rica,2005,272
+Croatia,2005,874
+Cuba,2005,1397
+Czech Republic,2005,1565
+Denmark,2005,631
+Ecuador,2005,943
+El Salvador,2005,455
+Estonia,2005,273
+Finland,2005,994
+France,2005,10713
+Georgia,2005,87
+Germany,2005,10270
+Greece,2005,400
+Guatemala,2005,238
+Hong Kong SAR,2005,1143
+Hungary,2005,2619
+Iceland,2005,33
+Ireland,2005,451
+Israel,2005,425
+Italy,2005,3742
+Japan,2005,30369
+Kazakhstan,2005,3903
+Kuwait,2005,52
+Kyrgyzstan,2005,470
+Latvia,2005,564
+Lithuania,2005,1319
+Luxembourg,2005,49
+Malta,2005,19
+Mauritius,2005,102
+Mexico,2005,4274
+Netherlands,2005,1574
+Norway,2005,533
+Paraguay,2005,239
+Poland,2005,6045
+Puerto Rico,2005,289
+Republic of Korea,2005,12011
+Republic of Moldova,2005,631
+Romania,2005,2603
+Russian Federation,2005,45802
+Saint Lucia,2005,4
+Saint Vincent and Grenadines,2005,8
+Singapore,2005,359
+Slovakia,2005,679
+Slovenia,2005,503
+Spain,2005,3399
+Suriname,2005,72
+Sweden,2005,1219
+Switzerland,2005,1299
+Thailand,2005,3937
+Turkmenistan,2005,468
+Ukraine,2005,10621
+United Kingdom,2005,4047
+United States of America,2005,32629
+Uruguay,2005,498
+Uzbekistan,2005,1221
+Argentina,2010,2943
+Aruba,2010,7
+Austria,2010,1264
+Belgium,2010,2013
+Belize,2010,15
+Brazil,2010,9429
+Bulgaria,2010,859
+Chile,2010,2001
+Colombia,2010,2107
+Costa Rica,2010,311
+Croatia,2010,776
+Cuba,2010,1558
+Czech Republic,2010,1502
+Denmark,2010,563
+Ecuador,2010,912
+El Salvador,2010,399
+Estonia,2010,223
+Finland,2010,954
+France,2010,10379
+Georgia,2010,112
+Germany,2010,10030
+Greece,2010,377
+Guatemala,2010,352
+Hong Kong SAR,2010,1007
+Hungary,2010,2489
+Iceland,2010,46
+Ireland,2010,486
+Israel,2010,480
+Italy,2010,3989
+Japan,2010,29411
+Kazakhstan,2010,3609
+Kuwait,2010,39
+Kyrgyzstan,2010,500
+Latvia,2010,438
+Lithuania,2010,1018
+Luxembourg,2010,54
+Malta,2010,31
+Mauritius,2010,98
+Mexico,2010,4858
+Netherlands,2010,1604
+Norway,2010,548
+Paraguay,2010,223
+Poland,2010,6357
+Puerto Rico,2010,286
+Republic of Korea,2010,15558
+Republic of Moldova,2010,676
+Romania,2010,2766
+Russian Federation,2010,33356
+Saint Lucia,2010,4
+Saint Vincent and Grenadines,2010,5
+Singapore,2010,296
+Slovakia,2010,631
+Slovenia,2010,414
+Spain,2010,3158
+Suriname,2010,136
+Sweden,2010,1141
+Switzerland,2010,1006
+Thailand,2010,3761
+Turkmenistan,2010,178
+Ukraine,2010,9089
+United Kingdom,2010,4188
+United States of America,2010,38362
+Uruguay,2010,547
+Uzbekistan,2010,1464
+Argentina,2014,3231
+Aruba,2014,5
+Austria,2014,1314
+Belgium,2014,1899
+Belize,2014,24
+Brazil,2014,10631
+Bulgaria,2014,724
+Chile,2014,1789
+Colombia,2014,2126
+Costa Rica,2014,268
+Croatia,2014,722
+Cuba,2014,1453
+Czech Republic,2014,1489
+Denmark,2014,629
+Ecuador,2014,734
+El Salvador,2014,386
+Estonia,2014,241
+Finland,2014,789
+France,2014,8881
+Georgia,2014,194
+Germany,2014,10217
+Greece,2014,565
+Guatemala,2014,512
+Hong Kong SAR,2014,926
+Hungary,2014,1925
+Iceland,2014,44
+Ireland,2014,486
+Israel,2014,382
+Italy,2014,4147
+Japan,2014,24357
+Kazakhstan,2014,3119
+Kuwait,2014,68
+Kyrgyzstan,2014,461
+Latvia,2014,382
+Lithuania,2014,930
+Luxembourg,2014,67
+Malta,2014,32
+Mauritius,2014,120
+Mexico,2014,6178
+Netherlands,2014,1839
+Norway,2014,548
+Paraguay,2014,379
+Poland,2014,5934
+Puerto Rico,2014,220
+Republic of Korea,2014,13834
+Republic of Moldova,2014,581
+Romania,2014,2209
+Russian Federation,2014,26541
+Saint Lucia,2014,14
+Saint Vincent and Grenadines,2014,2
+Singapore,2014,355
+Slovakia,2014,554
+Slovenia,2014,388
+Spain,2014,3911
+Suriname,2014,128
+Sweden,2014,1148
+Switzerland,2014,1032
+Thailand,2014,3952
+Turkmenistan,2014,136
+Ukraine,2014,7968
+United Kingdom,2014,4788
+United States of America,2014,42769
+Uruguay,2014,591
+Uzbekistan,2014,2095
